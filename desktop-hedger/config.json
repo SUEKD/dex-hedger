@@ -1,0 +1,16 @@
+{
+    "Pacifica": {
+        "apiKey": "",
+        "apiSecret": "",
+        "accountAddress": "",
+        "accountId": null,
+        "l1Address": null
+    },
+    "Lighter": {
+        "apiKey": "",
+        "apiSecret": "",
+        "accountAddress": null,
+        "accountId": 3,
+        "l1Address": ""
+    }
+}
